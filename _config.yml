@@ -1,0 +1,11 @@
+title: "Tateh Charles Junior Aluofu"
+email: "charljr123@gmail.com"
+description: >-
+  Software Engineer | Python • Django • Flask | Building Scalable Web &
+  Business Systems. Passionate about designing efficient architectures and
+  solving complex problems with technology.
+baseurl: "" # leave blank for user site
+url: "https://your-username.github.io" # replace with your GitHub username
+theme: minima
+plugins:
+  - jekyll-feed
