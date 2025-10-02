@@ -5,7 +5,7 @@ description: >-
   Business Systems. Passionate about designing efficient architectures and
   solving complex problems with technology.
 baseurl: "" # leave blank for user site
-url: "https://your-username.github.io" # replace with your GitHub username
+url: "https://tatehcharles.github.io" # replace with your GitHub username
 theme: minima
 plugins:
   - jekyll-feed
